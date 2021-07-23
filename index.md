@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Eitan Moyal | Northern Valley Regional Highschool Demarest | Areospace Engineering | Incoming Sophmore
+| Eitan Moyal | Northern Valley Regional Highschool Demarest | Aerospace Engineering | Incoming Sophmore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
